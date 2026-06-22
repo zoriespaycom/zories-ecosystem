@@ -1,5 +1,7 @@
 # Zories
 
+CA Pump.fun : GnVyb6Y11xGed5R2Mqtz9XCry8DHJSopbNptCYn6pump
+
 ### Recurring Payments & Payroll Infrastructure on Solana
 
 **Approve once. Let it run forever.**
